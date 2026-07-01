@@ -10,10 +10,8 @@
 
 ### 🎓 Certifications
 ![CEH](https://img.shields.io/badge/EC--Council-CEH%20Certified-red?style=flat&logo=ec-council&logoColor=white)
-![CND](https://img.shields.io/badge/EC--Council-CND%20Certified-red?style=flat&logo=ec-council&logoColor=white)
 
 - **Certified Ethical Hacker (CEH)** — EC-Council, 2024
-- **Certified Network Defender (CND)** — EC-Council, 2024
 - CEH v13 (Master Track) — Theoretical: completed · Practical: in progress
 
 ### 🛡️ About Me
